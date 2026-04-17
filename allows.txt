@@ -117,6 +117,7 @@ docker.io/chirpstack/*
 docker.io/chishin/nginx-proxy-manager-zh
 docker.io/chrishirsch/kuberhealthy-storage-check
 docker.io/chrislusf/seaweedfs
+docker.io/chromadb/chroma
 docker.io/chromedp/headless-shell
 docker.io/chrstnhntschl/gpu_burn
 docker.io/cimg/go
@@ -1045,7 +1046,7 @@ ghcr.io/graalvm/*
 ghcr.io/grafana-operator/*
 ghcr.io/grafana/*
 ghcr.io/hassio-addons/**
-ghcr.io/headlamp-k8s/headlamp
+ghcr.io/headlamp-k8s/**
 ghcr.io/helm/**
 ghcr.io/hkuds/lightrag
 ghcr.io/homarr-labs/homarr
@@ -1066,6 +1067,7 @@ ghcr.io/joernio/joern
 ghcr.io/k3d-io/**
 ghcr.io/k3s-io/**
 ghcr.io/k8snetworkplumbingwg/**
+ghcr.io/kagenti/**
 ghcr.io/karakeep-app/karakeep
 ghcr.io/kdoctor-io/**
 ghcr.io/kedacore/*
@@ -1132,6 +1134,7 @@ ghcr.io/rails/**
 ghcr.io/rancher/**
 ghcr.io/rjmalagon/ollama-linux-amd-apu
 ghcr.io/seriousm4x/upsnap
+ghcr.io/shipwright-io/**
 ghcr.io/siderolabs/*
 ghcr.io/siemens/**
 ghcr.io/sillytavern/sillytavern
