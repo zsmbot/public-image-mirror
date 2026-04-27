@@ -131,6 +131,7 @@ docker.io/cloudnativelabs/kube-router
 docker.io/cloudreve/cloudreve
 docker.io/codercom/code-server
 docker.io/codewisdom/*
+docker.io/codiumai/pr-agent
 docker.io/collabora/code
 docker.io/condaforge/miniforge3
 docker.io/conduktor/*
@@ -656,6 +657,7 @@ docker.io/neilpang/acme.sh
 docker.io/neosmemo/memos
 docker.io/netbirdio/*
 docker.io/netbox-community/netbox
+docker.io/netboxcommunity/netbox
 docker.io/netdata/netdata
 docker.io/networkstatic/iperf3
 docker.io/neuvector/*
@@ -970,6 +972,8 @@ gcr.io/**
 ghcr.io/666ghj/bettafish
 ghcr.io/9001/copyparty-ac
 ghcr.io/aas-ee/open-web-search
+ghcr.io/abhigyanpatwari/gitnexus
+ghcr.io/abhigyanpatwari/gitnexus-web
 ghcr.io/actions/**
 ghcr.io/advplyr/audiobookshelf
 ghcr.io/ajnart/homarr
